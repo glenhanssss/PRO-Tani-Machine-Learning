@@ -1,0 +1,5 @@
+0 Bacterialblight
+1 Blast
+2 Brownspot
+3 Healthy
+4 Tungro
